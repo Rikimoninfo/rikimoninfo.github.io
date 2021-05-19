@@ -4,7 +4,9 @@ header{
     width: 100%;
     height: 100vh;
     background-image: linear-gradient(to left, #fff 84%, #c3f5ff 40%);
-
+    font-family: 'Goblin One', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Libre Baskerville', serif;
 }
 .navsection{
     width: 100%;
@@ -165,3 +167,6 @@ main{
     box-shadow: none;
     background-image: none;
  }
+ 
+
+ 
